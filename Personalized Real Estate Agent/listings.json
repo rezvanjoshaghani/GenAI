@@ -1,0 +1,92 @@
+[
+    {
+        "Neighborhood": "Brooklyn Heights",
+        "Price": "$1,200,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "Size": "2,500 sqft",
+        "Description": "Stunning brownstone in the heart of Brooklyn Heights with original details and modern upgrades. This 4-bedroom, 3-bathroom home features a chef's kitchen, rooftop terrace, and spacious backyard.",
+        "Neighborhood Description": "Brooklyn Heights is a historic neighborhood known for its tree-lined streets, charming brownstones, and proximity to Brooklyn Bridge Park."
+    },
+    {
+        "Neighborhood": "Beverly Hills",
+        "Price": "$5,500,000",
+        "Bedrooms": 6,
+        "Bathrooms": 7,
+        "Size": "8,000 sqft",
+        "Description": "Luxurious estate in Beverly Hills with a pool, tennis court, and guest house. This 6-bedroom, 7-bathroom home offers privacy and elegance in a prestigious neighborhood.",
+        "Neighborhood Description": "Beverly Hills is synonymous with luxury living, upscale shopping, and celebrity sightings. Enjoy world-class dining and entertainment in this exclusive enclave."
+    },
+    {
+        "Neighborhood": "Lakeview",
+        "Price": "$600,000",
+        "Bedrooms": 2,
+        "Bathrooms": 2,
+        "Size": "1,200 sqft",
+        "Description": "Modern condo in Lakeview with lake views and a private balcony. This 2-bedroom, 2-bathroom unit features a gourmet kitchen, hardwood floors, and in-unit laundry.",
+        "Neighborhood Description": "Lakeview is a vibrant neighborhood known for its proximity to Lake Michigan, diverse dining options, and lively nightlife scene."
+    },
+    {
+        "Neighborhood": "Pacific Palisades",
+        "Price": "$3,000,000",
+        "Bedrooms": 5,
+        "Bathrooms": 4,
+        "Size": "4,500 sqft",
+        "Description": "Contemporary home in Pacific Palisades with ocean views and a backyard oasis. This 5-bedroom, 4-bathroom property offers a chef's kitchen, home theater, and outdoor dining area.",
+        "Neighborhood Description": "Pacific Palisades is a coastal neighborhood known for its upscale homes, scenic hiking trails, and proximity to the beach. Enjoy a relaxed, beachside lifestyle in this exclusive enclave."
+    },
+    {
+        "Neighborhood": "Midtown Manhattan",
+        "Price": "$2,500,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Size": "1,800 sqft",
+        "Description": "Luxury apartment in Midtown Manhattan with skyline views and high-end finishes. This 3-bedroom, 2-bathroom unit features a doorman, fitness center, and rooftop terrace.",
+        "Neighborhood Description": "Midtown Manhattan is the bustling commercial and entertainment hub of New York City. Enjoy world-class dining, shopping, and cultural attractions in this vibrant neighborhood."
+    },
+    {
+        "Neighborhood": "South Beach",
+        "Price": "$1,800,000",
+        "Bedrooms": 3,
+        "Bathrooms": 3,
+        "Size": "2,000 sqft",
+        "Description": "Modern townhouse in South Beach with a rooftop deck and ocean views. This 3-bedroom, 3-bathroom home offers a gourmet kitchen, spa-like bathrooms, and a two-car garage.",
+        "Neighborhood Description": "South Beach is a trendy neighborhood known for its sandy beaches, vibrant nightlife, and Art Deco architecture. Experience the best of Miami living in this stylish enclave."
+    },
+    {
+        "Neighborhood": "Nob Hill",
+        "Price": "$1,500,000",
+        "Bedrooms": 2,
+        "Bathrooms": 2,
+        "Size": "1,500 sqft",
+        "Description": "Charming condo in Nob Hill with city views and a private patio. This 2-bedroom, 2-bathroom unit features a fireplace, hardwood floors, and a gourmet kitchen.",
+        "Neighborhood Description": "Nob Hill is a historic neighborhood known for its upscale homes, boutique shopping, and iconic cable cars. Enjoy a sophisticated urban lifestyle in this prestigious enclave."
+    },
+    {
+        "Neighborhood": "Soho",
+        "Price": "$4,000,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "Size": "3,000 sqft",
+        "Description": "Loft-style apartment in Soho with exposed brick and high ceilings. This 4-bedroom, 3-bathroom unit features a designer kitchen, home office, and custom lighting.",
+        "Neighborhood Description": "Soho is a trendy neighborhood known for its art galleries, upscale boutiques, and chic restaurants. Experience the epitome of downtown living in this stylish enclave."
+    },
+    {
+        "Neighborhood": "Silver Lake",
+        "Price": "$900,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Size": "1,800 sqft",
+        "Description": "Mid-century modern home in Silver Lake with hillside views and a backyard pool. This 3-bedroom, 2-bathroom property offers an open floor plan, hardwood floors, and a two-car garage.",
+        "Neighborhood Description": "Silver Lake is a hip neighborhood known for its indie music scene, trendy eateries, and scenic reservoir. Embrace the bohemian spirit of Los Angeles in this eclectic enclave."
+    },
+    {
+        "Neighborhood": "Georgetown",
+        "Price": "$1,000,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Size": "2,000 sqft",
+        "Description": "Historic townhouse in Georgetown with a private garden and original details. This 3-bedroom, 2-bathroom home features a gourmet kitchen, hardwood floors, and a cozy fireplace.",
+        "Neighborhood Description": "Georgetown is a charming neighborhood known for its cobblestone streets, historic architecture, and upscale shops. Experience the elegance of Washington, D.C. living in this prestigious enclave."
+    }
+]
