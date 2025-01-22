@@ -8,49 +8,49 @@ The HomeMatch application is designed to generate real estate listings and match
 
 #### Solution 1: Direct LLM Generation & Matching
 
-Generating Real Estate Listings
+1. Generating Real Estate Listings
 
-Utilized OpenAI's GPT model to generate at least 10 diverse and realistic real estate listings.
+- Utilized OpenAI's GPT model to generate at least 10 diverse and realistic real estate listings.
 
-Listings include details such as neighborhood, price, bedrooms, bathrooms, size, and descriptions.
+- Listings include details such as neighborhood, price, bedrooms, bathrooms, size, and descriptions.
 
-Listings are saved in a JSON file to reduce API call costs.
+- Listings are saved in a JSON file to reduce API call costs.
 
-Storing Listings in a Vector Database
+2. Storing Listings in a Vector Database
 
-Listings are processed into embeddings using OpenAI Embeddings.
+- Listings are processed into embeddings using OpenAI Embeddings.
 
-ChromaDB is used as the vector database to store these embeddings.
+- ChromaDB is used as the vector database to store these embeddings.
 
-Semantic Search Based on Buyer Preferences
+3. Semantic Search Based on Buyer Preferences
 
-Buyer preferences are collected through structured questions.
+- Buyer preferences are collected through structured questions.
 
-Preferences are parsed into a summary and converted into embeddings.
+- Preferences are parsed into a summary and converted into embeddings.
 
-A similarity search is performed on the vector database to find the best-matching listings.
+- A similarity search is performed on the vector database to find the best-matching listings.
 
-Personalized Listing Descriptions
+4. Personalized Listing Descriptions
 
-The retrieved listings are reprocessed using the LLM to personalize descriptions based on buyer preferences.
+- The retrieved listings are reprocessed using the LLM to personalize descriptions based on buyer preferences.
 
-Ensures factual integrity while enhancing the appeal of listings.
+- Ensures factual integrity while enhancing the appeal of listings.
 
 #### Solution 2: Conversational Recommendation System
 
-Interactive Buyer Preference Collection
+1. Interactive Buyer Preference Collection
 
-Implemented a conversational AI interface to interactively gather buyer preferences.
+- Implemented a conversational AI interface to interactively gather buyer preferences.
 
-Memory management using LangChain's ConversationSummaryMemory and ConversationBufferMemory.
+- Memory management using LangChain's ConversationSummaryMemory and ConversationBufferMemory.
 
-Enhanced Recommendation System
+2. Enhanced Recommendation System
 
-Buyer persona is created based on structured questions and stored preferences.
+- Buyer persona is created based on structured questions and stored preferences.
 
-AI generates a rating for each listing based on alignment with buyer preferences.
+- AI generates a rating for each listing based on alignment with buyer preferences.
 
-Final recommendation is based on the highest-rated listings.
+- Final recommendation is based on the highest-rated listings.
 
 ## How to Run the Application
 
@@ -64,7 +64,7 @@ Final recommendation is based on the highest-rated listings.
 
 - ChromaDB installed (pip install chromadb)
 
-## Project Files
+### Project Files
 
 - HomeMatch.ipynb - Jupyter Notebook containing all project components including listing generation, vector database storage, and recommendation system.
 
